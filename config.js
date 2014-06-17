@@ -1,7 +1,7 @@
 var config = {
     host: 'http://v2ex.com',
-    user: 'fredom',
-    password: 'yugioh70169140',
+    user: '******',
+    password: '********',
     redeem: {
         loginUrl: '/signin',
         missionUrl: '/mission/daily'
