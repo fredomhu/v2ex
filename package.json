@@ -1,0 +1,13 @@
+{
+    "name": "v2ex-tools",
+    "version": "0.1.0",
+    "description": "some tools for v2ex",
+    "author": "fredomhu",
+    "email": "fredomhu@gmail.com",
+    "dependencies": {
+        "request": "2.x.x",
+        "cheerio": "0.x.x",
+        "async"  : "0.x.x", 
+        "later"  : "1.x.x"
+    }
+}
